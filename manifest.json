@@ -1,0 +1,11 @@
+{
+  "name": "PrimeDox AI",
+  "short_name": "PrimeDox",
+  "start_url": "./primedox-ai-chat.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#FFD700",
+  "icons": [
+    {"src": "robot-gold.jpg", "sizes": "512x512", "type": "image/jpeg"}
+  ]
+}
